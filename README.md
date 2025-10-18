@@ -42,7 +42,7 @@ NavigationRecorder is a Qt-based application designed to record, replay, and vis
 
 ## 📋 Prerequisites
 
-* **Qt**: Version 5 or 6 with the `QtWebEngine`, `QtWidgets`, and `QtWebChannel` modules.
+* **Qt**: Version 5 or 6 with the `QtWebEngine`, `QtWidgets` modules.
 * **Compiler**: A C++17-compatible compiler (e.g., g++, MSVC).
 * **Graphviz**: Required to visualize `.dot` files as graphs.
 * **Icons (optional)**: Provide custom icons for the toolbar (`record.png`, `record_active.png`, `play.png`, `stop.png`, `save.png`) or use Qt standard icons.
