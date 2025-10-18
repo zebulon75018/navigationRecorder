@@ -1,6 +1,6 @@
 # 🕵️‍♀️ NavigationRecorder: Web Navigation Recorder and Visualizer
 
-NavigationRecorder is a Qt-based application designed to record, replay, and visualize web navigation sessions. It captures main page navigations, AJAX calls, and POST requests, saves screenshots, and generates a visual navigation graph. The application provides a user-friendly interface with a toolbar and menu, as well as command-line options for enhanced flexibility.
+NavigationRecorder is a Qt-based application designed to record, replay, and visualize web navigation sessions. It captures main page navigations, AJAX calls,  saves screenshots, and generates a visual navigation graph. The application provides a user-friendly interface with a toolbar and menu, as well as command-line options for enhanced flexibility.
 
 ![screenshot](https://github.com/zebulon75018/navigationRecorder/blob/main/img/navigationrecorder.png?raw=true)
 
