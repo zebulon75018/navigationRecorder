@@ -53,6 +53,6 @@ NavigationRecorder is a Qt-based application designed to record, replay, and vis
    ```bash
    git clone https://github.com/zebulon75018/navigationRecorder.git
    cd navigationRecorder
-
-
+   ```
+   
    done by vibe coding with grok. ( after few llm errors ).. 
