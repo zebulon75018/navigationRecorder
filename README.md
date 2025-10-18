@@ -49,5 +49,5 @@ NavigationRecorder is a Qt-based application designed to record, replay, and vis
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/WebSpy.git
-   cd WebSpy
+   git clone https://github.com/zebulon75018/navigationRecorder.git
+   cd navigationRecorder
