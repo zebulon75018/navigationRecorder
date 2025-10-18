@@ -1,0 +1,50 @@
+[
+    {
+        "isAjax": false,
+        "method": "FormSubmitted",
+        "params": "q=toto&sca_esv=2e386fd74801b194&source=hp&ei=bNbzaLuwDZ_6kdUPm-HwkAs&iflsig=AOw8s4IAAAAAaPPkfFGlTfRv9tcKizdsXHy2z0YWw2N5&ved=0ahUKEwi7ltPUqq6QAxUffaQEHZswHLIQ4dUDCA8&uact=5&oq=toto&gs_lp=Egdnd3Mtd2l6IgR0b3RvMg0QLhiABBixAxhDGIoFMgsQLhiABBixAxiDATIOEC4YgAQYxwEYjgUYrwEyCxAuGIAEGLEDGIMBMggQLhiABBixAzIFEAAYgAQyBRAuGIAEMgUQLhiABDILEC4YgAQYsQMYgwEyEBAAGIAEGLEDGIMBGIoFGApIigxQggdYjQlwAXgAkAEAmAFBoAHsAaoBATS4AQPIAQD4AQGYAgWgAoADqAIKwgIQEC4YgAQYQxi0AhiKBRjqAsICFhAuGIAEGNEDGEMYtAIYxwEYigUY6gLCAhAQABiABBhDGLQCGIoFGOoCwgIKEC4YgAQYQxiKBcICChAAGIAEGEMYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgIREC4YgAQYsQMYxwEYjgUYrwHCAggQABiABBixA8ICDhAAGIAEGLEDGIMBGIoFmAMx8QVNXhwBq8YeRZIHATWgB99AsgcBNLgHzwLCBwUzLTEuNMgHew&sclient=gws-wiz",
+        "screenshot": "1.png",
+        "timestamp": "2025-10-18T20:03:31",
+        "url": "https://www.google.com/search?q=toto&sca_esv=2e386fd74801b194&source=hp&ei=bNbzaLuwDZ_6kdUPm-HwkAs&iflsig=AOw8s4IAAAAAaPPkfFGlTfRv9tcKizdsXHy2z0YWw2N5&ved=0ahUKEwi7ltPUqq6QAxUffaQEHZswHLIQ4dUDCA8&uact=5&oq=toto&gs_lp=Egdnd3Mtd2l6IgR0b3RvMg0QLhiABBixAxhDGIoFMgsQLhiABBixAxiDATIOEC4YgAQYxwEYjgUYrwEyCxAuGIAEGLEDGIMBMggQLhiABBixAzIFEAAYgAQyBRAuGIAEMgUQLhiABDILEC4YgAQYsQMYgwEyEBAAGIAEGLEDGIMBGIoFGApIigxQggdYjQlwAXgAkAEAmAFBoAHsAaoBATS4AQPIAQD4AQGYAgWgAoADqAIKwgIQEC4YgAQYQxi0AhiKBRjqAsICFhAuGIAEGNEDGEMYtAIYxwEYigUY6gLCAhAQABiABBhDGLQCGIoFGOoCwgIKEC4YgAQYQxiKBcICChAAGIAEGEMYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgIREC4YgAQYsQMYxwEYjgUYrwHCAggQABiABBixA8ICDhAAGIAEGLEDGIMBGIoFmAMx8QVNXhwBq8YeRZIHATWgB99AsgcBNLgHzwLCBwUzLTEuNMgHew&sclient=gws-wiz"
+    },
+    {
+        "isAjax": false,
+        "method": "LinkClicked",
+        "params": "sca_esv=2e386fd74801b194&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQ_pbg5bWizQs3A_kIenjtcpTTqBUdyVgzq0c3_k8z34EAuM72an33lMW6RWde9ePJgSOHAF8ydWXpCbsCz1RjWODgOdOYJfBo0ECiFYFSXVhCWwT7m8WxHJurvXYr3AA-RIKQF-YD3L3szzTgB0mmJtfdE3Q2K1qjxh6KHhd7EtIOskusyj_EA4ZELCgCNEXBv3-vjw&q=toto&sa=X&ved=2ahUKEwik8ovYqq6QAxU4UaQEHabBJ40QtKgLegQIExAB&biw=782&bih=495&dpr=1",
+        "screenshot": "2.png",
+        "timestamp": "2025-10-18T20:03:33",
+        "url": "https://www.google.com/search?sca_esv=2e386fd74801b194&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQ_pbg5bWizQs3A_kIenjtcpTTqBUdyVgzq0c3_k8z34EAuM72an33lMW6RWde9ePJgSOHAF8ydWXpCbsCz1RjWODgOdOYJfBo0ECiFYFSXVhCWwT7m8WxHJurvXYr3AA-RIKQF-YD3L3szzTgB0mmJtfdE3Q2K1qjxh6KHhd7EtIOskusyj_EA4ZELCgCNEXBv3-vjw&q=toto&sa=X&ved=2ahUKEwik8ovYqq6QAxU4UaQEHabBJ40QtKgLegQIExAB&biw=782&bih=495&dpr=1"
+    },
+    {
+        "isAjax": false,
+        "method": "LinkClicked",
+        "params": "sa=X&sca_esv=2e386fd74801b194&udm=7&fbs=AIIjpHxI7zOekSq5910sgA1UsuDFXbiflnwOuB05BWGa6Ivum_Pdp4gslu_acnF9HSJMc7eBloOljUdGMapniiw3BE6Gt0Jk4aNe67OFKNooKsQ-wexzfSE8Yobo7AVYXEN44cL4ebpVOBNAmB5vb8Ib54_qHNj8lGkZzVIecIG1q0Tz309vGsGViBo2Dj3Kgag1dOtLbwELAg2xpt2YX0cICB6BIfIsrB8zro00Ouu9BX0IOY6dGJLx-fNdJbqBVCOiGR6J0nAt&q=toto&ved=2ahUKEwiI4ozZqq6QAxUWNfsDHY5fB-QQtKgLegQIDRAB&biw=782&bih=495&dpr=1",
+        "screenshot": "3.png",
+        "timestamp": "2025-10-18T20:03:34",
+        "url": "https://www.google.com/search?sa=X&sca_esv=2e386fd74801b194&udm=7&fbs=AIIjpHxI7zOekSq5910sgA1UsuDFXbiflnwOuB05BWGa6Ivum_Pdp4gslu_acnF9HSJMc7eBloOljUdGMapniiw3BE6Gt0Jk4aNe67OFKNooKsQ-wexzfSE8Yobo7AVYXEN44cL4ebpVOBNAmB5vb8Ib54_qHNj8lGkZzVIecIG1q0Tz309vGsGViBo2Dj3Kgag1dOtLbwELAg2xpt2YX0cICB6BIfIsrB8zro00Ouu9BX0IOY6dGJLx-fNdJbqBVCOiGR6J0nAt&q=toto&ved=2ahUKEwiI4ozZqq6QAxUWNfsDHY5fB-QQtKgLegQIDRAB&biw=782&bih=495&dpr=1"
+    },
+    {
+        "isAjax": false,
+        "method": "LinkClicked",
+        "params": "sca_esv=2e386fd74801b194&q=toto&source=lnms&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQ_pbg5bWizQs3A_kIenjtcpTTqBUdyVgzq0c3_k8z34EAuM72an33lMW6RWde9ePJgSOHAF8ydWXpCbsCz1RjWODgOdOYJfBo0ECiFYFSXVhCWwT7m8WxHJurvXYr3AA-WSc_m6RIRB8qi5T27PDXfCKwsBIHtcDTsgo1ZsNifeSLIGumjwKm-ytHve3VVhwPmpsi8w&sa=X&ved=2ahUKEwi-qdHZqq6QAxUWV6QEHTvEIXUQ0pQJegQIChAB&biw=782&bih=495&dpr=1",
+        "screenshot": "4.png",
+        "timestamp": "2025-10-18T20:03:35",
+        "url": "https://www.google.com/search?sca_esv=2e386fd74801b194&q=toto&source=lnms&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQ_pbg5bWizQs3A_kIenjtcpTTqBUdyVgzq0c3_k8z34EAuM72an33lMW6RWde9ePJgSOHAF8ydWXpCbsCz1RjWODgOdOYJfBo0ECiFYFSXVhCWwT7m8WxHJurvXYr3AA-WSc_m6RIRB8qi5T27PDXfCKwsBIHtcDTsgo1ZsNifeSLIGumjwKm-ytHve3VVhwPmpsi8w&sa=X&ved=2ahUKEwi-qdHZqq6QAxUWV6QEHTvEIXUQ0pQJegQIChAB&biw=782&bih=495&dpr=1"
+    },
+    {
+        "isAjax": false,
+        "method": "LinkClicked",
+        "params": "",
+        "screenshot": "5.png",
+        "timestamp": "2025-10-18T20:03:47",
+        "url": "https://eu.toto.com/fr/"
+    },
+    {
+        "isAjax": false,
+        "method": "Other",
+        "params": "",
+        "screenshot": "6.png",
+        "timestamp": "2025-10-18T20:04:05",
+        "url": "https://eu.toto.com/fr/confidentialite"
+    }
+]
