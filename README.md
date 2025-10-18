@@ -8,7 +8,7 @@ NavigationRecorder is a Qt-based application designed to record, replay, and vis
 
 * **Record Web Navigation**:
   * Captures main page navigations (e.g., link clicks, form submissions, typed URLs).
-  * Intercepts AJAX and POST requests using JavaScript injection to capture POST data.
+  * Intercepts AJAX.
   * Records navigation events with URLs, timestamps, HTTP methods, parameters, and optional screenshots.
 
 * **Screenshots**:
